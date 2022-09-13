@@ -7,7 +7,6 @@
   "version": "1.0.0",
   "description": "baaaaal",
   "main": "script.js",
-  "type": "module",
   "devDependencies": {},
   "scripts": {
     "start": "nodemon script.js",
