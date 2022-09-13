@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "@tensorflow/tfjs": "^3.20.0",
+    "express": "^4.18.1"
+  },
+  "name": "baal",
+  "version": "1.0.0",
+  "description": "baaaaal",
+  "main": "script.js",
+  "type": "module",
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon script.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "baal"
+  ],
+  "author": "baal",
+  "license": "ISC"
+}
