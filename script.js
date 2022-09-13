@@ -9,5 +9,8 @@ async function go() {
     const mymodel = await tf.loadLayersModel('https://raw.githubusercontent.com/Frdhsn/test-ml-model-load/main/model/model.json');
     //const mymodel = await tf.models.modelFromJSON(myModelJSON)
     mymodel.summary();
+
+    var data = [[1, 2, 3, 4, 5, 6, 7, 8, 9, 1, 2, 3, 4, 5, 6]];
+    mymodel.predict(tf.tensor2d(data)).print();
 }
 go();
