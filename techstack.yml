@@ -2,7 +2,7 @@ repo_name: Frdhsn/test-ml-model-load
 report_id: 0c1d8b40a47583eb5f1695275adbd1f9
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-29T14:28:38+00:00'
+timestamp: '2024-02-29T19:39:03+00:00'
 requested_by: Frdhsn
 provider: github
 branch: main
@@ -170,7 +170,7 @@ tools:
   last_updated_by: frdhsn
   last_updated_on: 2022-09-13 13:34:20.000000000 Z
 - name: Swift
-  description: 'An innovative new programming language for Cocoa and Cocoa Touch. '
+  description: An innovative new programming language for Cocoa and Cocoa Touch.
   website_url: https://developer.apple.com/swift/
   license: Apache-2.0
   open_source: true
@@ -316,7 +316,7 @@ tools:
   last_updated_by: frdhsn
   last_updated_on: 2022-09-13 13:34:20.000000000 Z
 - name: Next.js
-  description: 'A small framework for server-rendered universal JavaScript apps '
+  description: A small framework for server-rendered universal JavaScript apps
   website_url: https://nextjs.org/
   open_source: true
   hosted_saas: false
@@ -429,7 +429,7 @@ tools:
   last_updated_by: frdhsn
   last_updated_on: 2022-09-13 13:34:20.000000000 Z
 - name: Gun
-  description: 'Self-hosted Firebase. '
+  description: Self-hosted Firebase.
   website_url: http://gun.js.org/#step1
   open_source: true
   hosted_saas: false
@@ -532,8 +532,8 @@ tools:
   last_updated_by: frdhsn
   last_updated_on: 2022-09-13 13:34:20.000000000 Z
 - name: BrowserStack
-  description: BrowserStack is a software testing platform for developers to comprehensively
-    test websites and mobile applications
+  description: BrowserStack is the leading test platform built for developers &amp;
+    QAs to expand test coverage, scale, &amp; optimize testing
   website_url: http://www.browserstack.com
   open_source: false
   hosted_saas: true
@@ -828,7 +828,7 @@ tools:
   last_updated_by: frdhsn
   last_updated_on: 2022-09-13 13:34:20.000000000 Z
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 2.2.1
   license: MIT
@@ -957,7 +957,7 @@ tools:
   last_updated_by: frdhsn
   last_updated_on: 2022-09-13 13:34:20.000000000 Z
 - name: SuperTest
-  description: 'A library for testing node.js HTTP servers '
+  description: A library for testing node.js HTTP servers
   website_url: https://www.npmjs.com/package/supertest
   version: 6.2.2
   license: MIT
@@ -1148,7 +1148,7 @@ tools:
   last_updated_by: frdhsn
   last_updated_on: 2022-09-13 13:34:20.000000000 Z
 - name: Alexa
-  description: 'A cloud-based voice service '
+  description: A cloud-based voice service
   website_url: https://developer.amazon.com/alexa-skills-kit
   open_source: false
   hosted_saas: true
@@ -1628,7 +1628,7 @@ tools:
   last_updated_by: frdhsn
   last_updated_on: 2022-09-13 13:34:20.000000000 Z
 - name: Success
-  description: "  Discover Success.ai – the ultimate B2B cold email powerhouse! "
+  description: Discover Success.ai – the ultimate B2B cold email powerhouse!
   website_url: https://www.success.ai/
   open_source: false
   hosted_saas: false
@@ -1810,7 +1810,7 @@ tools:
   last_updated_by: frdhsn
   last_updated_on: 2022-09-13 13:34:20.000000000 Z
 - name: oso
-  description: 'A batteries-included system for application authorization. '
+  description: A batteries-included system for application authorization.
   website_url: https://www.osohq.com/
   license: Apache-2.0
   open_source: true
